@@ -22,20 +22,20 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Reinforcement_Learning_Concepts_and_Applications.py" />
-    <Compile Include="RLCatchDQN_1147129\CatchGame.py" />
-    <Compile Include="RLCatchDQN_1147129\CatchGameEnv.py" />
-    <Compile Include="RLCatchDQN_1147129\DQNetwork.py" />
-    <Compile Include="RLCatchDQN_1147129\PlayCatchTrainedRL.py" />
-    <Compile Include="RLCatchDQN_1147129\RLCatchDQN.py" />
+    <Compile Include="RLCatchDQN\CatchGame.py" />
+    <Compile Include="RLCatchDQN\CatchGameEnv.py" />
+    <Compile Include="RLCatchDQN\DQNetwork.py" />
+    <Compile Include="RLCatchDQN\PlayCatchTrainedRL.py" />
+    <Compile Include="RLCatchDQN\RLCatchDQN.py" />
     <Compile Include="TicTacToeDQN\Agent.py" />
     <Compile Include="TicTacToeDQN\QModel.py" />
     <Compile Include="TicTacToeDQN\TicTacToe.py" />
     <Compile Include="TicTacToeDQN\TicTacToeDQN.py" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="RLCatchDQN_1147129\" />
-    <Folder Include="RLCatchDQN_1147129\checkpoint\" />
-    <Folder Include="RLCatchDQN_1147129\output\" />
+    <Folder Include="RLCatchDQN\" />
+    <Folder Include="RLCatchDQN\checkpoint\" />
+    <Folder Include="RLCatchDQN\output\" />
     <Folder Include="TicTacToeDQN\" />
     <Folder Include="TicTacToeDQN\checkpoint\" />
   </ItemGroup>
